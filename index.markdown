@@ -41,10 +41,10 @@ The plugin is built to be a drop in replacement for the default Character and Pl
 
 ## Blueprints
 Simply open your Character blueprint, and replace the parent class from **Character** to **Client Authoritative Character**:
-![CharacterClass](./assets/images/Character.png)
+![CharacterClass](assets/images/Character.png)
 
 Then do the same to your PlayerController blueprint, replacing the parent class from **Player Controller** to **Client Authoritative Player Controller**:
-![ControllerClass](./assets/images/Controller.png)
+![ControllerClass](assets/images/Controller.png)
 
 And that's it, you're done!
 
