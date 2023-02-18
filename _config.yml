@@ -23,8 +23,8 @@ title: Client Authoritative Character
 description: >-
   Documentation for the Client Authoritative Character plugin.
 author: Anton Hesselbom
-baseurl: ""
-url: ""
+baseurl: "/ClientAuthoritativeCharacterDocs"
+url: "https://plastburk.github.io/"
 marketplace_url: "https://google.com"
 
 github:
