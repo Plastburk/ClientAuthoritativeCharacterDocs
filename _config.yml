@@ -25,7 +25,7 @@ description: >-
 author: Anton Hesselbom
 baseurl: "/ClientAuthoritativeCharacterDocs"
 url: "https://plastburk.github.io/"
-marketplace_url: "https://google.com"
+marketplace_url: "https://www.unrealengine.com/marketplace/en-US/product/client-authoritative-networked-characters"
 
 github:
   is_project_page: false
